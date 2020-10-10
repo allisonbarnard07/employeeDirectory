@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import DataBody from "../DataBody";
-import "./DataTable.css";
+import "../DataTable/DataTable.css";
 import DataAreaContext from "../../utils/DataAreaContext";
 
 const DataTable = () => {
