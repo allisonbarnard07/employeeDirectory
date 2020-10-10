@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./wrapper.css";
 
 function Wrapper ({ children }){
     return (
@@ -8,4 +8,4 @@ function Wrapper ({ children }){
         </div>
     );
 }
-export default Wrapper;
+export default Wrapper
